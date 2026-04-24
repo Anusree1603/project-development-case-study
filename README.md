@@ -216,7 +216,7 @@ I am interested in this role and have experience in Python and Django. I have bu
 
 Dear Hiring Manager,
 
-I am writing to express my interest in the  Fresher Developer and Tester position. I am a Computer Science Engineering student with hands-on experience in Python, Django, SQL, and building data-driven applications.
+I am writing to express my interest in the  Full Stack Developer position. I am a Computer Science Engineering student with hands-on experience in Python, Django, SQL, and building data-driven applications.
 
 I have worked on projects such as an AI-Based Cash Flow Management System, where I designed database models, implemented backend logic, and developed features for tracking and analyzing financial data. I also built a Face Recognition Attendance System using OpenCV, which strengthened my understanding of computer vision and real-time processing. Additionally, I worked on a Smart Traffic System integrating AI and IoT concepts.
 
